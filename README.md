@@ -1,3 +1,3 @@
 # love - what is it?
 * what is the opposite of love?
-**Is it indeifference?
+*The opposite is indeifference.
