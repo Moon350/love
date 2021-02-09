@@ -1,3 +1,3 @@
-# love
-class stuff
-what is love
+# love - what is it?
+* what is the opposite of love?
+**Is it indeifference?
